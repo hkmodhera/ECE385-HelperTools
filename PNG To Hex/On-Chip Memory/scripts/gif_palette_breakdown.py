@@ -36,8 +36,8 @@ def rgb_to_hex(num):
 # and byte files will get stored or you can leave it the way it is if you want to just
 # store the images and text files directly into the given sprite folders.
 
-filepath_converted = './sprite_converted/'
-filepath_bytes = './sprite_bytes/'
+filepath_converted = './sprite_converted/frames21_conv/'
+filepath_bytes = './sprite_bytes/frames21_bytes/'
 filepath_originals = './sprite_originals/'
 
 file_picture_ext = ".png"
