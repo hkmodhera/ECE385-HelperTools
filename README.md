@@ -50,7 +50,7 @@ We used an online gif decomposer to break it down into the following 7 frames. N
 
 ![alt text](https://github.com/hkmodhera/ECE385-HelperTools/blob/master/PNG%20To%20Hex/On-Chip%20Memory/sprite_originals/collageBowser.png)
 
-Based on our current configuration for the script, here are example converted images. These are the first 5 varying size images of the first frame of the gif, starting from the original image on the far left.
+Based on our current configuration for the script, here are example converted images. These are the first 5 varying size images of the first frame of the gif, starting with a 96*128 image on the far left. The width increment is by 10 and the height increment is by 13 in each iteration.
 
 ![alt text](https://github.com/hkmodhera/ECE385-HelperTools/blob/master/PNG%20To%20Hex/On-Chip%20Memory/sprite_converted/frames21_conv/bowserT_f1_96_128.png)
 ![alt text](https://github.com/hkmodhera/ECE385-HelperTools/blob/master/PNG%20To%20Hex/On-Chip%20Memory/sprite_converted/frames21_conv/bowserT_f1_106_141.png)
