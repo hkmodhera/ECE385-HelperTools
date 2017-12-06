@@ -58,6 +58,8 @@ Based on our current configuration for the script, here are example converted im
 ![alt text](https://github.com/hkmodhera/ECE385-HelperTools/blob/master/PNG%20To%20Hex/On-Chip%20Memory/sprite_converted/frames21_conv/bowserT_f1_126_167.png)
 ![alt text](https://github.com/hkmodhera/ECE385-HelperTools/blob/master/PNG%20To%20Hex/On-Chip%20Memory/sprite_converted/frames21_conv/bowserT_f1_136_180.png)
 
+Note that although the above images looked stretched, they look perfect on the VGA monitor. Try and see for yourself!
+
 # FAQ
 
 1.  What is PIL and why is it missing?
